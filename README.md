@@ -1,2 +1,3 @@
-# 2020_linux_calendar
-Linux based artwork calendar poster for year 2020
+# Calendar for 2020 :)
+
+Artworks are form linux.pictures and everything is made using inkscape.
